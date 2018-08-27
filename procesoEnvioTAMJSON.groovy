@@ -9,8 +9,8 @@ def Message processData(Message message) {
     //Body 
        //def body = message.getBody();
        //def body = message.getBody(String.class);
-       //def body = message.getBody(java.io.Reader)
-       def body = message.getBody(java.lang.String)
+       def body = message.getBody(java.io.Reader)
+       //def body = message.getBody(java.lang.String)
        
 		def idOferta
 		def results = new JsonSlurper().parse(body)
@@ -21,7 +21,7 @@ def Message processData(Message message) {
 
 
 
-		helper.xmlDeclaration([version:'1.0', encoding:'UTF-8')]
+		helper.xmlDeclaration([version:'1.0', encoding:'UTF-8'])
 
 
 		builder.datosOfertas {

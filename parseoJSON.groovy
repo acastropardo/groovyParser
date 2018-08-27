@@ -13,7 +13,7 @@ def builder = new groovy.xml.MarkupBuilder(writer)
 def helper = new groovy.xml.MarkupBuilderHelper(builder)
 //def builder = new StreamingMarkupBuilder(writer)
 
-helper.xmlDeclaration([version:'1.0', encoding:'UTF-8', standalone:'no'])
+helper.xmlDeclaration([version:'1.0', encoding:'UTF-8'])
 
 
 builder.datosOfertas {
@@ -68,4 +68,58 @@ def xml = XmlUtil.serialize(root);
 println xml
 
 
+def String horaMil(String horaIn){
 
+	(ampm, hora) = horaIn.tokenize(' ');
+
+	cadenaHora.tokenize( ':' )
+	        switch (ampm) {
+        case 'AM':
+            
+            break
+        case 'PM':
+
+            switch(hora) {
+                case '01':
+                    hora = '13'
+                break
+                case '02':
+                    hora = '14'
+                break
+                case '03':
+                    hora = '15'
+                break
+                case '04':
+                    hora = '16'
+                break
+                case '05':
+                    hora = '17'
+                break
+                case '06':
+                    hora = '18'
+                break
+                case '07':
+                    hora = '19'
+                break
+                case '08':
+                    hora = '20'
+                break
+                case '09':
+                    hora = '21'
+                break
+                case '10':
+                    hora = '22'
+                break
+                case '11':
+                    hora = '23'
+                break
+                case '12':
+                    hora = '24'
+                break
+
+            }
+
+            break
+        }
+        return hora
+}
