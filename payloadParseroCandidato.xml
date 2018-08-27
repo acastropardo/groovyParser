@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapeoProcesoFin>
+    <datosOfertas>
+        <IDOfertaProg>1</IDOfertaProg>
+        <FechaIniSegmento>2018-04-30</FechaIniSegmento>
+        <FechaFinSegmento>2018-04-30</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>1</IDOfertaProg>
+        <FechaIniSegmento>2018-04-30</FechaIniSegmento>
+        <FechaFinSegmento>2018-04-30</FechaFinSegmento>
+        <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>1</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2001</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2001</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2001</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2001</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2001</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>2:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2001</IDOfertaProg>
+        <FechaIniSegmento>2018-05-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-07</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2001</IDOfertaProg>
+        <FechaIniSegmento>2018-05-03</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-03</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2002</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>1:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>3:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2002</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>1:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>3:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2002</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>4:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>8:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2002</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>4:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>8:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2002</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>WAITLIST 1/1</EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+        <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2003</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+        <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2004</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2004</IDOfertaProg>
+        <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+        <HoraIniSegmento>1:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>2:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2005</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2005</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2005</IDOfertaProg>
+        <FechaIniSegmento>2018-05-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-07</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>2005</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>3001</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>3001</IDOfertaProg>
+        <FechaIniSegmento>2018-05-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-08</FechaFinSegmento>
+        <HoraIniSegmento>0:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>3001</IDOfertaProg>
+        <FechaIniSegmento>2018-05-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-08</FechaFinSegmento>
+        <HoraIniSegmento>0:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4003</IDOfertaProg>
+        <FechaIniSegmento>2018-07-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-07</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4003</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4003</IDOfertaProg>
+        <FechaIniSegmento>2018-07-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-07</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4005</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4005</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4005</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4005</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>10000802</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20002468</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20002968</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20003212</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20001642</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+        <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20002831</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20000635</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20002617</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>20002985</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4006</IDOfertaProg>
+        <IDUsuario>10001236</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+        <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE3</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE2</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_DIV</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR1PHR</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_KAUFMANN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4007</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4008</IDOfertaProg>
+        <FechaIniSegmento>2018-06-25</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-25</FechaFinSegmento>
+        <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4008</IDOfertaProg>
+        <FechaIniSegmento>2018-06-25</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-25</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4008</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4009</IDOfertaProg>
+        <IDUsuario>ABRAHAMC</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4009</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4009</IDOfertaProg>
+        <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_DIV</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+        <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4010</IDOfertaProg>
+        <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4011</IDOfertaProg>
+        <FechaIniSegmento>2018-08-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-22</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4011</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4011</IDOfertaProg>
+        <FechaIniSegmento>2018-08-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-22</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4012</IDOfertaProg>
+        <FechaIniSegmento>2018-05-23</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-23</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4012</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4012</IDOfertaProg>
+        <FechaIniSegmento>2018-05-23</FechaIniSegmento>
+        <FechaFinSegmento>2018-05-23</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4013</IDOfertaProg>
+        <FechaIniSegmento>2018-07-06</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-06</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4013</IDOfertaProg>
+        <FechaIniSegmento>2018-07-06</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-06</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>4013</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5002</IDOfertaProg>
+        <IDUsuario>GMEDINA</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5002</IDOfertaProg>
+        <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5002</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5003</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5003</IDOfertaProg>
+        <FechaIniSegmento>2018-09-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-09-05</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+        <IDUsuario>20002831</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+        <FechaIniSegmento>2018-10-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-10-05</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+        <IDUsuario>20000635</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+        <IDUsuario>20002617</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+        <IDUsuario>10001236</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5005</IDOfertaProg>
+        <FechaIniSegmento>2018-11-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-11-07</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5005</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5007</IDOfertaProg>
+        <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5007</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+        <IDUsuario>20002468</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+        <IDUsuario>20003212</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+        <IDUsuario>20001642</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+        <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-10-08</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+        <IDUsuario>10000802</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5009</IDOfertaProg>
+        <FechaIniSegmento>2018-07-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-06</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5009</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5010</IDOfertaProg>
+        <FechaIniSegmento>2018-09-03</FechaIniSegmento>
+        <FechaFinSegmento>2018-09-04</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5010</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5011</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5011</IDOfertaProg>
+        <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-10-09</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5011</IDOfertaProg>
+        <IDUsuario>20000635</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5011</IDOfertaProg>
+        <IDUsuario>20002617</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5011</IDOfertaProg>
+        <IDUsuario>10001236</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5012</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5012</IDOfertaProg>
+        <FechaIniSegmento>2018-11-15</FechaIniSegmento>
+        <FechaFinSegmento>2018-11-16</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5012</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5013</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5013</IDOfertaProg>
+        <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>12:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5013</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5013</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5013</IDOfertaProg>
+        <IDUsuario>CGALLINATO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5013</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_DIV</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>JGOMEZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR1PHR</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_KAUFMANN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+        <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+        <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5014</IDOfertaProg>
+        <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5015</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5015</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5015</IDOfertaProg>
+        <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5015</IDOfertaProg>
+        <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5015</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE3</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE2</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_KAUFMANN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR1PHR</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_DIV</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5016</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5017</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5017</IDOfertaProg>
+        <FechaIniSegmento>2018-06-11</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-11</FechaFinSegmento>
+        <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+        <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5017</IDOfertaProg>
+        <FechaIniSegmento>2018-06-11</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-11</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5018</IDOfertaProg>
+        <FechaIniSegmento>2018-06-12</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-12</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5018</IDOfertaProg>
+        <FechaIniSegmento>2018-06-12</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-12</FechaFinSegmento>
+        <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+        <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5018</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5019</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5019</IDOfertaProg>
+        <FechaIniSegmento>2018-06-13</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-13</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5019</IDOfertaProg>
+        <FechaIniSegmento>2018-06-13</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-13</FechaFinSegmento>
+        <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5020</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5020</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5020</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5020</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5021</IDOfertaProg>
+        <FechaIniSegmento>2018-07-03</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-03</FechaFinSegmento>
+        <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>5:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5021</IDOfertaProg>
+        <FechaIniSegmento>2018-07-03</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-03</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5021</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5022</IDOfertaProg>
+        <FechaIniSegmento>2018-07-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-04</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5022</IDOfertaProg>
+        <FechaIniSegmento>2018-07-04</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-04</FechaFinSegmento>
+        <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>5:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5022</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5023</IDOfertaProg>
+        <FechaIniSegmento>2018-07-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-05</FechaFinSegmento>
+        <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>5:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5023</IDOfertaProg>
+        <FechaIniSegmento>2018-07-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-07-05</FechaFinSegmento>
+        <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5023</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5024</IDOfertaProg>
+        <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+        <HoraIniSegmento>2:35 AM </HoraIniSegmento>
+        <HoraFinSegmento>8:35 AM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5024</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5025</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5025</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5025</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5025</IDOfertaProg>
+        <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5025</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5026</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5026</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5026</IDOfertaProg>
+        <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+        <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>7:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5027</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5027</IDOfertaProg>
+        <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+        <HoraIniSegmento>8:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>8:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-13</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-13</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-19</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-19</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-25</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-25</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-26</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-26</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <IDUsuario>JGOMEZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-11</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-11</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>6:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+        <FechaIniSegmento>2018-06-12</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-12</FechaFinSegmento>
+        <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5028</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+        <HoraIniSegmento>1:30 PM </HoraIniSegmento>
+        <HoraFinSegmento>9:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+        <HoraIniSegmento>9:40 AM </HoraIniSegmento>
+        <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <IDUsuario>GMEDINA</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_KAUFMANN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE2</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5029</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5030</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5030</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5030</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5030</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE2</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5030</IDOfertaProg>
+        <FechaIniSegmento>2018-08-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-08</FechaFinSegmento>
+        <HoraIniSegmento>8:40 AM </HoraIniSegmento>
+        <HoraFinSegmento>4:40 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <IDUsuario>GMEDINA</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_KAUFMANN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR1PHR</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <IDUsuario>JGOMEZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5031</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+        <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5032</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5032</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>1:40 AM </HoraIniSegmento>
+        <HoraFinSegmento>2:30 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE3</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE2</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>GMEDINA</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+        <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_KAUFMANN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR1PHR</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>PRUEBA</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+        <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+        <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_DIV</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5033</IDOfertaProg>
+        <IDUsuario>JGOMEZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5035</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5035</IDOfertaProg>
+        <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+        <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>12:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5035</IDOfertaProg>
+        <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+        <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>12:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5036</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+        <HoraFinSegmento>02:55 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5036</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5036</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+        <HoraFinSegmento>02:55 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5036</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5037</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5037</IDOfertaProg>
+        <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+        <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5037</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5037</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5037</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5037</IDOfertaProg>
+        <IDUsuario>CGALLINATO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5038</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5038</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5038</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_DIV</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5038</IDOfertaProg>
+        <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5038</IDOfertaProg>
+        <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5038</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5039</IDOfertaProg>
+        <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+        <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5039</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5039</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5039</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5039</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5039</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5040</IDOfertaProg>
+        <FechaIniSegmento>2018-06-19</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-19</FechaFinSegmento>
+        <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5040</IDOfertaProg>
+        <IDUsuario>INSTRUCTOR_DIV</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5040</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5040</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5040</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5041</IDOfertaProg>
+        <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+        <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:30 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5041</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5042</IDOfertaProg>
+        <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+        <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5042</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+        <IDUsuario>PLATEAU</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+        <IDUsuario>ESTUDIANTE1</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+        <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+        <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+        <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+        <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+        <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+        <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5043</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5044</IDOfertaProg>
+        <FechaIniSegmento>2018-06-27</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-27</FechaFinSegmento>
+        <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5044</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5044</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5044</IDOfertaProg>
+        <IDUsuario>JGOMEZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5044</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5045</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5045</IDOfertaProg>
+        <IDUsuario>nmoya</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5045</IDOfertaProg>
+        <IDUsuario>JGOMEZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5045</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5045</IDOfertaProg>
+        <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+        <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+        <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5046</IDOfertaProg>
+        <IDUsuario>30001604</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5046</IDOfertaProg>
+        <IDUsuario>20003057</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5046</IDOfertaProg>
+        <IDUsuario>20002666</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5046</IDOfertaProg>
+        <IDUsuario>20000089</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5046</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5046</IDOfertaProg>
+        <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+        <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5047</IDOfertaProg>
+        <FechaIniSegmento>2018-08-22</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-22</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5047</IDOfertaProg>
+        <IDUsuario>10000014</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5047</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5047</IDOfertaProg>
+        <IDUsuario>20002998</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5047</IDOfertaProg>
+        <IDUsuario>PRUEBA</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <FechaIniSegmento>2018-09-20</FechaIniSegmento>
+        <FechaFinSegmento>2018-09-20</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002999</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002417</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002985</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>30002792</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+        <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+        <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+        <IDUsuario>ERUIZ</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+        <IDUsuario>CGALLINATO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+        <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+        <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+        <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5049</IDOfertaProg>
+        <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5052</IDOfertaProg>
+        <IDUsuario>20002831</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5052</IDOfertaProg>
+        <IDUsuario>20002617</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5052</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5052</IDOfertaProg>
+        <FechaIniSegmento>2018-08-10</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-10</FechaFinSegmento>
+        <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5053</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5053</IDOfertaProg>
+        <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+        <HoraIniSegmento>1:00 AM </HoraIniSegmento>
+        <HoraFinSegmento>7:00 PM </HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5054</IDOfertaProg>
+        <FechaIniSegmento>2018-08-10</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-11</FechaFinSegmento>
+        <HoraIniSegmento>04:45 PM</HoraIniSegmento>
+        <HoraFinSegmento>12:45 AM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5054</IDOfertaProg>
+        <FechaIniSegmento>2018-08-10</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-11</FechaFinSegmento>
+        <HoraIniSegmento>04:45 PM</HoraIniSegmento>
+        <HoraFinSegmento>12:45 AM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5054</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5054</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5056</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5056</IDOfertaProg>
+        <FechaIniSegmento>2018-08-15</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-15</FechaFinSegmento>
+        <HoraIniSegmento>01:00 PM</HoraIniSegmento>
+        <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5056</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5057</IDOfertaProg>
+        <FechaIniSegmento>2018-08-16</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-16</FechaFinSegmento>
+        <HoraIniSegmento>11:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>07:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5057</IDOfertaProg>
+        <FechaIniSegmento>2018-08-16</FechaIniSegmento>
+        <FechaFinSegmento>2018-08-16</FechaFinSegmento>
+        <HoraIniSegmento>11:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>07:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5057</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5057</IDOfertaProg>
+        <IDUsuario>XALFARO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+        <FechaIniSegmento>2018-12-27</FechaIniSegmento>
+        <FechaFinSegmento>2018-12-27</FechaFinSegmento>
+        <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+        <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+        <IDUsuario>CGALLINATO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+    </datosOfertas>
+</mapeoProcesoFin>

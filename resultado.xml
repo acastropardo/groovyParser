@@ -1,0 +1,2643 @@
+<?xml version="1.0" encoding="UTF-8"?><datosOfertas>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>2:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-03</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-03</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>2:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-03</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-03</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>2:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2001</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-03</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-03</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>0:00 AM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>8:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2003</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-04</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-04</FechaFinSegmento>
+    <HoraIniSegmento>4:09 PM </HoraIniSegmento>
+    <HoraFinSegmento>8:09 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2005</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>2005</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-05-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-05-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>10000802</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>10000802</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>10000802</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002468</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002468</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002468</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002968</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002968</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002968</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20003212</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20003212</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20003212</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20001642</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20001642</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20001642</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002831</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002831</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002831</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20000635</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20000635</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20000635</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002617</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002617</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002617</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002985</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002985</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>20002985</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>10001236</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>6:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>10001236</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4006</idOfertaProgramada>
+    <IDUsuarioInscrito>10001236</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-02</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-02</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE3</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE3</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE3</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4007</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4009</idOfertaProgramada>
+    <IDUsuarioInscrito>ABRAHAMC</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>4010</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-06</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5002</idOfertaProgramada>
+    <IDUsuarioInscrito>GMEDINA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5004</idOfertaProgramada>
+    <IDUsuarioInscrito>20002831</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5004</idOfertaProgramada>
+    <IDUsuarioInscrito>20000635</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5004</idOfertaProgramada>
+    <IDUsuarioInscrito>20002617</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5004</idOfertaProgramada>
+    <IDUsuarioInscrito>10001236</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5008</idOfertaProgramada>
+    <IDUsuarioInscrito>20002468</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-08</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5008</idOfertaProgramada>
+    <IDUsuarioInscrito>20003212</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-08</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5008</idOfertaProgramada>
+    <IDUsuarioInscrito>20001642</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-08</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5008</idOfertaProgramada>
+    <IDUsuarioInscrito>10000802</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-08</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5011</idOfertaProgramada>
+    <IDUsuarioInscrito>20000635</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-09</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5011</idOfertaProgramada>
+    <IDUsuarioInscrito>20002617</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-09</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5011</idOfertaProgramada>
+    <IDUsuarioInscrito>10001236</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-10-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-10-09</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5012</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-11-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-11-16</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5013</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>12:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5013</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>12:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5013</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>12:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5013</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>12:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>05:30 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5014</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>08:30 AM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5015</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5015</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5015</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5015</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>8:30 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE3</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE3</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5016</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-05</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-05</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5025</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5025</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5025</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5025</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>1:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5026</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>2:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>7:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-13</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-19</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-19</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-25</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-25</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-26</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-26</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-11</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-11</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>6:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-12</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-12</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-13</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-19</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-19</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-25</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-25</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-26</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-26</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-11</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-11</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>6:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5028</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-12</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-12</FechaFinSegmento>
+    <HoraIniSegmento>06:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>1:30 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>1:30 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>GMEDINA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>1:30 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>GMEDINA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>1:30 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>1:30 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-07</FechaFinSegmento>
+    <HoraIniSegmento>1:30 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:30 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5029</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5030</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-08</FechaFinSegmento>
+    <HoraIniSegmento>8:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:40 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5030</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-08</FechaFinSegmento>
+    <HoraIniSegmento>8:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:40 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5030</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-08</FechaFinSegmento>
+    <HoraIniSegmento>8:40 AM </HoraIniSegmento>
+    <HoraFinSegmento>4:40 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>GMEDINA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>GMEDINA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5031</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:00 PM </HoraIniSegmento>
+    <HoraFinSegmento>9:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE3</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE3</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE2</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>GMEDINA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>GMEDINA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_KAUFMANN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR1PHR</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>PRUEBA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>PRUEBA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5033</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-08</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-08</FechaFinSegmento>
+    <HoraIniSegmento>1:45 AM </HoraIniSegmento>
+    <HoraFinSegmento>7:45 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5036</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>02:55 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5036</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>02:30 PM</HoraIniSegmento>
+    <HoraFinSegmento>02:55 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5037</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5037</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5037</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5037</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5037</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5037</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-14</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>11:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5038</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5038</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5038</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5038</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5038</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5038</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-18</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-18</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5039</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5039</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5039</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5039</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-15</FechaFinSegmento>
+    <HoraIniSegmento>03:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5040</idOfertaProgramada>
+    <IDUsuarioInscrito>INSTRUCTOR_DIV</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-19</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-19</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5040</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-19</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-19</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5040</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-19</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-19</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>PLATEAU</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>ESTUDIANTE1</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-20</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5043</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-22</FechaFinSegmento>
+    <HoraIniSegmento>10:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>02:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5044</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-27</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-27</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5044</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-27</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-27</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5044</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-27</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-27</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5045</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5045</idOfertaProgramada>
+    <IDUsuarioInscrito>nmoya</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5045</idOfertaProgramada>
+    <IDUsuarioInscrito>JGOMEZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-06-21</FechaIniSegmento>
+    <FechaFinSegmento>2018-06-21</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5046</idOfertaProgramada>
+    <IDUsuarioInscrito>30001604</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5046</idOfertaProgramada>
+    <IDUsuarioInscrito>20003057</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5046</idOfertaProgramada>
+    <IDUsuarioInscrito>20002666</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5046</idOfertaProgramada>
+    <IDUsuarioInscrito>20000089</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-07</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-07</FechaFinSegmento>
+    <HoraIniSegmento>9:00 AM </HoraIniSegmento>
+    <HoraFinSegmento>5:00 PM </HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5047</idOfertaProgramada>
+    <IDUsuarioInscrito>10000014</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5047</idOfertaProgramada>
+    <IDUsuarioInscrito>20002998</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5047</idOfertaProgramada>
+    <IDUsuarioInscrito>PRUEBA</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-22</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-22</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5048</idOfertaProgramada>
+    <IDUsuarioInscrito>20002999</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-09-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-09-20</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5048</idOfertaProgramada>
+    <IDUsuarioInscrito>20002417</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-09-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-09-20</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5048</idOfertaProgramada>
+    <IDUsuarioInscrito>20002985</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-09-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-09-20</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5048</idOfertaProgramada>
+    <IDUsuarioInscrito>30002792</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-09-20</FechaIniSegmento>
+    <FechaFinSegmento>2018-09-20</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>ERUIZ</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-13</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-13</FechaFinSegmento>
+    <HoraIniSegmento>02:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>06:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5049</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-14</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-14</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>01:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5052</idOfertaProgramada>
+    <IDUsuarioInscrito>20002831</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-10</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-10</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5052</idOfertaProgramada>
+    <IDUsuarioInscrito>20002617</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-10</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-10</FechaFinSegmento>
+    <HoraIniSegmento>08:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>04:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5054</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-10</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-11</FechaFinSegmento>
+    <HoraIniSegmento>04:45 PM</HoraIniSegmento>
+    <HoraFinSegmento>12:45 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5054</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-10</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-11</FechaFinSegmento>
+    <HoraIniSegmento>04:45 PM</HoraIniSegmento>
+    <HoraFinSegmento>12:45 AM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5056</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-15</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-15</FechaFinSegmento>
+    <HoraIniSegmento>01:00 PM</HoraIniSegmento>
+    <HoraFinSegmento>09:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5057</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-16</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-16</FechaFinSegmento>
+    <HoraIniSegmento>11:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>07:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5057</idOfertaProgramada>
+    <IDUsuarioInscrito>XALFARO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-08-16</FechaIniSegmento>
+    <FechaFinSegmento>2018-08-16</FechaFinSegmento>
+    <HoraIniSegmento>11:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>07:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5058</idOfertaProgramada>
+    <IDUsuarioInscrito>CGALLINATO</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-12-27</FechaIniSegmento>
+    <FechaFinSegmento>2018-12-27</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+  <inscrito>
+    <idOfertaProgramada>5058</idOfertaProgramada>
+    <IDUsuarioInscrito>LMSADMIN</IDUsuarioInscrito>
+    <FechaIniSegmento>2018-12-27</FechaIniSegmento>
+    <FechaFinSegmento>2018-12-27</FechaFinSegmento>
+    <HoraIniSegmento>09:00 AM</HoraIniSegmento>
+    <HoraFinSegmento>05:00 PM</HoraFinSegmento>
+  </inscrito>
+</datosOfertas>
+

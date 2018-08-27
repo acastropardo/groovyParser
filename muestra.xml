@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapeoProceso>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002985</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002417</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002999</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>30002792</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <HoraIniSegmento>20/sep/2018 09:00 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>20/sep/2018 05:00 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+</mapeoProceso>

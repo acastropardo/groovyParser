@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapeoProceso>
+    <datosOfertas>
+        <IDOfertaProg>5003</IDOfertaProg>
+        <HoraIniSegmento>5/sep/2018 08:30 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>5/sep/2018 04:30 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5003</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+        <HoraIniSegmento>5/oct/2018 08:30 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>5/oct/2018 04:30 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5004</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5005</IDOfertaProg>
+        <HoraIniSegmento>7/nov/2018 08:30 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>7/nov/2018 04:30 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5005</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+        <HoraIniSegmento>8/oct/2018 08:30 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>8/oct/2018 04:30 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5008</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5010</IDOfertaProg>
+        <HoraIniSegmento>3/sep/2018 08:30 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>4/sep/2018 04:30 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5010</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5011</IDOfertaProg>
+        <HoraIniSegmento>8/oct/2018 08:30 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>9/oct/2018 04:30 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5011</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5012</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5012</IDOfertaProg>
+        <HoraIniSegmento>15/nov/2018 08:30 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>16/nov/2018 04:30 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002985</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002417</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>20002999</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <IDUsuario>30002792</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5048</IDOfertaProg>
+        <HoraIniSegmento>20/sep/2018 09:00 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>20/sep/2018 05:00 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+        <IDUsuario>CGALLINATO</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+        <IDUsuario>LMSADMIN</IDUsuario>
+        <EstadoRegistro>ENROLL </EstadoRegistro>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+    </datosOfertas>
+    <datosOfertas>
+        <IDOfertaProg>5058</IDOfertaProg>
+        <HoraIniSegmento>27/dic/2018 09:00 AM América/Santiago</HoraIniSegmento>
+        <HoraFinSegmento>27/dic/2018 05:00 PM América/Santiago</HoraFinSegmento>
+    </datosOfertas>
+</mapeoProceso>
