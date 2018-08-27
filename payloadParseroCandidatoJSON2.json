@@ -1,0 +1,2234 @@
+{"mapeoProcesoFin": {"datosOfertas": [
+    {
+        "IDOfertaProg": "1",
+        "FechaIniSegmento": "2018-04-30",
+        "FechaFinSegmento": "2018-04-30",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "1",
+        "FechaIniSegmento": "2018-04-30",
+        "FechaFinSegmento": "2018-04-30",
+        "HoraIniSegmento": "02:00 PM",
+        "HoraFinSegmento": "06:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "1",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2001",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2001",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2001",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2001",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2001",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "2:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2001",
+        "FechaIniSegmento": "2018-05-07",
+        "FechaFinSegmento": "2018-05-07",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "0:00 AM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2001",
+        "FechaIniSegmento": "2018-05-03",
+        "FechaFinSegmento": "2018-05-03",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "0:00 AM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2002",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "1:00 AM ",
+        "HoraFinSegmento": "3:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2002",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "1:00 AM ",
+        "HoraFinSegmento": "3:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2002",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "4:00 PM ",
+        "HoraFinSegmento": "8:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2002",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "4:00 PM ",
+        "HoraFinSegmento": "8:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2002",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "WAITLIST 1/1",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "8:00 AM ",
+        "HoraFinSegmento": "4:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "4:09 PM ",
+        "HoraFinSegmento": "8:09 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2003",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "4:09 PM ",
+        "HoraFinSegmento": "8:09 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2004",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2004",
+        "FechaIniSegmento": "2018-05-04",
+        "FechaFinSegmento": "2018-05-04",
+        "HoraIniSegmento": "1:00 AM ",
+        "HoraFinSegmento": "2:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2005",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2005",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2005",
+        "FechaIniSegmento": "2018-05-07",
+        "FechaFinSegmento": "2018-05-07",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "5:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "2005",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "3001",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "3001",
+        "FechaIniSegmento": "2018-05-08",
+        "FechaFinSegmento": "2018-05-08",
+        "HoraIniSegmento": "0:00 AM ",
+        "HoraFinSegmento": "6:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "3001",
+        "FechaIniSegmento": "2018-05-08",
+        "FechaFinSegmento": "2018-05-08",
+        "HoraIniSegmento": "0:00 AM ",
+        "HoraFinSegmento": "6:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4003",
+        "FechaIniSegmento": "2018-07-07",
+        "FechaFinSegmento": "2018-07-07",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4003",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4003",
+        "FechaIniSegmento": "2018-07-07",
+        "FechaFinSegmento": "2018-07-07",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4005",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4005",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "1:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4005",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "1:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4005",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "2:00 PM ",
+        "HoraFinSegmento": "6:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "10000802",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20002468",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20002968",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20003212",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20001642",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "FechaIniSegmento": "2018-08-02",
+        "FechaFinSegmento": "2018-08-02",
+        "HoraIniSegmento": "2:00 PM ",
+        "HoraFinSegmento": "6:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "FechaIniSegmento": "2018-08-02",
+        "FechaFinSegmento": "2018-08-02",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "1:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "FechaIniSegmento": "2018-08-02",
+        "FechaFinSegmento": "2018-08-02",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "1:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20002831",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20000635",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20002617",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "20002985",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4006",
+        "IDUsuario": "10001236",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "FechaIniSegmento": "2018-06-22",
+        "FechaFinSegmento": "2018-06-22",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "FechaIniSegmento": "2018-06-22",
+        "FechaFinSegmento": "2018-06-22",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "FechaIniSegmento": "2018-06-22",
+        "FechaFinSegmento": "2018-06-22",
+        "HoraIniSegmento": "02:00 PM",
+        "HoraFinSegmento": "06:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "ESTUDIANTE3",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "ESTUDIANTE2",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "INSTRUCTOR_DIV",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "INSTRUCTOR1PHR",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "INSTRUCTOR_KAUFMANN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4007",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4008",
+        "FechaIniSegmento": "2018-06-25",
+        "FechaFinSegmento": "2018-06-25",
+        "HoraIniSegmento": "02:00 PM",
+        "HoraFinSegmento": "06:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4008",
+        "FechaIniSegmento": "2018-06-25",
+        "FechaFinSegmento": "2018-06-25",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4008",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4009",
+        "IDUsuario": "ABRAHAMC",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4009",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4009",
+        "FechaIniSegmento": "2018-06-05",
+        "FechaFinSegmento": "2018-06-05",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "IDUsuario": "INSTRUCTOR_DIV",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "FechaIniSegmento": "2018-06-06",
+        "FechaFinSegmento": "2018-06-07",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4010",
+        "FechaIniSegmento": "2018-06-06",
+        "FechaFinSegmento": "2018-06-07",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4011",
+        "FechaIniSegmento": "2018-08-22",
+        "FechaFinSegmento": "2018-08-22",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "04:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4011",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4011",
+        "FechaIniSegmento": "2018-08-22",
+        "FechaFinSegmento": "2018-08-22",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "04:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4012",
+        "FechaIniSegmento": "2018-05-23",
+        "FechaFinSegmento": "2018-05-23",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "04:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4012",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4012",
+        "FechaIniSegmento": "2018-05-23",
+        "FechaFinSegmento": "2018-05-23",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "04:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4013",
+        "FechaIniSegmento": "2018-07-06",
+        "FechaFinSegmento": "2018-07-06",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4013",
+        "FechaIniSegmento": "2018-07-06",
+        "FechaFinSegmento": "2018-07-06",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "4013",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5002",
+        "IDUsuario": "GMEDINA",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5002",
+        "FechaIniSegmento": "2018-08-07",
+        "FechaFinSegmento": "2018-08-07",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5002",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5003",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5003",
+        "FechaIniSegmento": "2018-09-05",
+        "FechaFinSegmento": "2018-09-05",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5004",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5004",
+        "IDUsuario": "20002831",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5004",
+        "FechaIniSegmento": "2018-10-05",
+        "FechaFinSegmento": "2018-10-05",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5004",
+        "IDUsuario": "20000635",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5004",
+        "IDUsuario": "20002617",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5004",
+        "IDUsuario": "10001236",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5005",
+        "FechaIniSegmento": "2018-11-07",
+        "FechaFinSegmento": "2018-11-07",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5005",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5007",
+        "FechaIniSegmento": "2018-08-07",
+        "FechaFinSegmento": "2018-08-07",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5007",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5008",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5008",
+        "IDUsuario": "20002468",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5008",
+        "IDUsuario": "20003212",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5008",
+        "IDUsuario": "20001642",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5008",
+        "FechaIniSegmento": "2018-10-08",
+        "FechaFinSegmento": "2018-10-08",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5008",
+        "IDUsuario": "10000802",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5009",
+        "FechaIniSegmento": "2018-07-05",
+        "FechaFinSegmento": "2018-07-06",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5009",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5010",
+        "FechaIniSegmento": "2018-09-03",
+        "FechaFinSegmento": "2018-09-04",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5010",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5011",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5011",
+        "FechaIniSegmento": "2018-10-08",
+        "FechaFinSegmento": "2018-10-09",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5011",
+        "IDUsuario": "20000635",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5011",
+        "IDUsuario": "20002617",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5011",
+        "IDUsuario": "10001236",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5012",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5012",
+        "FechaIniSegmento": "2018-11-15",
+        "FechaFinSegmento": "2018-11-16",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "04:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5012",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5013",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5013",
+        "FechaIniSegmento": "2018-06-18",
+        "FechaFinSegmento": "2018-06-18",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "12:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5013",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5013",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5013",
+        "IDUsuario": "CGALLINATO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5013",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "INSTRUCTOR_DIV",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "JGOMEZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "INSTRUCTOR1PHR",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "INSTRUCTOR_KAUFMANN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "FechaIniSegmento": "2018-06-18",
+        "FechaFinSegmento": "2018-06-18",
+        "HoraIniSegmento": "02:30 PM",
+        "HoraFinSegmento": "05:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5014",
+        "FechaIniSegmento": "2018-06-18",
+        "FechaFinSegmento": "2018-06-18",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "11:00 AM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5015",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5015",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5015",
+        "FechaIniSegmento": "2018-06-05",
+        "FechaFinSegmento": "2018-06-05",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5015",
+        "FechaIniSegmento": "2018-06-05",
+        "FechaFinSegmento": "2018-06-05",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "4:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5015",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "ESTUDIANTE3",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "ESTUDIANTE2",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "INSTRUCTOR_KAUFMANN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "INSTRUCTOR1PHR",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "INSTRUCTOR_DIV",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "FechaIniSegmento": "2018-06-05",
+        "FechaFinSegmento": "2018-06-05",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "5:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "FechaIniSegmento": "2018-06-05",
+        "FechaFinSegmento": "2018-06-05",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "5:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5016",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5017",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5017",
+        "FechaIniSegmento": "2018-06-11",
+        "FechaFinSegmento": "2018-06-11",
+        "HoraIniSegmento": "02:30 PM",
+        "HoraFinSegmento": "05:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5017",
+        "FechaIniSegmento": "2018-06-11",
+        "FechaFinSegmento": "2018-06-11",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "01:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5018",
+        "FechaIniSegmento": "2018-06-12",
+        "FechaFinSegmento": "2018-06-12",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "01:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5018",
+        "FechaIniSegmento": "2018-06-12",
+        "FechaFinSegmento": "2018-06-12",
+        "HoraIniSegmento": "02:30 PM",
+        "HoraFinSegmento": "05:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5018",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5019",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5019",
+        "FechaIniSegmento": "2018-06-13",
+        "FechaFinSegmento": "2018-06-13",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "01:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5019",
+        "FechaIniSegmento": "2018-06-13",
+        "FechaFinSegmento": "2018-06-13",
+        "HoraIniSegmento": "02:00 PM",
+        "HoraFinSegmento": "05:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5020",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5020",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "01:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5020",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "01:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5020",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "02:00 PM",
+        "HoraFinSegmento": "05:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5021",
+        "FechaIniSegmento": "2018-07-03",
+        "FechaFinSegmento": "2018-07-03",
+        "HoraIniSegmento": "2:00 PM ",
+        "HoraFinSegmento": "5:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5021",
+        "FechaIniSegmento": "2018-07-03",
+        "FechaFinSegmento": "2018-07-03",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "1:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5021",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5022",
+        "FechaIniSegmento": "2018-07-04",
+        "FechaFinSegmento": "2018-07-04",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "1:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5022",
+        "FechaIniSegmento": "2018-07-04",
+        "FechaFinSegmento": "2018-07-04",
+        "HoraIniSegmento": "2:00 PM ",
+        "HoraFinSegmento": "5:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5022",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5023",
+        "FechaIniSegmento": "2018-07-05",
+        "FechaFinSegmento": "2018-07-05",
+        "HoraIniSegmento": "2:00 PM ",
+        "HoraFinSegmento": "5:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5023",
+        "FechaIniSegmento": "2018-07-05",
+        "FechaFinSegmento": "2018-07-05",
+        "HoraIniSegmento": "8:30 AM ",
+        "HoraFinSegmento": "1:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5023",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5024",
+        "FechaIniSegmento": "2018-06-05",
+        "FechaFinSegmento": "2018-06-05",
+        "HoraIniSegmento": "2:35 AM ",
+        "HoraFinSegmento": "8:35 AM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5024",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5025",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5025",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5025",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5025",
+        "FechaIniSegmento": "2018-06-07",
+        "FechaFinSegmento": "2018-06-07",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "1:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5025",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "1:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5026",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5026",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5026",
+        "FechaIniSegmento": "2018-06-07",
+        "FechaFinSegmento": "2018-06-07",
+        "HoraIniSegmento": "2:00 PM ",
+        "HoraFinSegmento": "7:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5027",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5027",
+        "FechaIniSegmento": "2018-06-07",
+        "FechaFinSegmento": "2018-06-07",
+        "HoraIniSegmento": "8:00 PM ",
+        "HoraFinSegmento": "8:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-13",
+        "FechaFinSegmento": "2018-06-13",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-15",
+        "FechaFinSegmento": "2018-06-15",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-18",
+        "FechaFinSegmento": "2018-06-18",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-19",
+        "FechaFinSegmento": "2018-06-19",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-20",
+        "FechaFinSegmento": "2018-06-20",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-21",
+        "FechaFinSegmento": "2018-06-21",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-22",
+        "FechaFinSegmento": "2018-06-22",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-25",
+        "FechaFinSegmento": "2018-06-25",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-26",
+        "FechaFinSegmento": "2018-06-26",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "IDUsuario": "JGOMEZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-11",
+        "FechaFinSegmento": "2018-06-11",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "6:00 PM ",
+        "HoraFinSegmento": "9:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "FechaIniSegmento": "2018-06-12",
+        "FechaFinSegmento": "2018-06-12",
+        "HoraIniSegmento": "06:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5028",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "FechaIniSegmento": "2018-06-07",
+        "FechaFinSegmento": "2018-06-07",
+        "HoraIniSegmento": "1:30 PM ",
+        "HoraFinSegmento": "9:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "FechaIniSegmento": "2018-08-07",
+        "FechaFinSegmento": "2018-08-07",
+        "HoraIniSegmento": "9:40 AM ",
+        "HoraFinSegmento": "5:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "IDUsuario": "GMEDINA",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "IDUsuario": "INSTRUCTOR_KAUFMANN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "IDUsuario": "ESTUDIANTE2",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5029",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5030",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5030",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5030",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5030",
+        "IDUsuario": "ESTUDIANTE2",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5030",
+        "FechaIniSegmento": "2018-08-08",
+        "FechaFinSegmento": "2018-08-08",
+        "HoraIniSegmento": "8:40 AM ",
+        "HoraFinSegmento": "4:40 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "IDUsuario": "GMEDINA",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "IDUsuario": "INSTRUCTOR_KAUFMANN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "IDUsuario": "INSTRUCTOR1PHR",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "IDUsuario": "JGOMEZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "1:00 PM ",
+        "HoraFinSegmento": "9:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5031",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "1:00 PM ",
+        "HoraFinSegmento": "9:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5032",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5032",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "1:40 AM ",
+        "HoraFinSegmento": "2:30 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "ESTUDIANTE3",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "ESTUDIANTE2",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "GMEDINA",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "1:45 AM ",
+        "HoraFinSegmento": "7:45 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "INSTRUCTOR_KAUFMANN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "INSTRUCTOR1PHR",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "PRUEBA",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "FechaIniSegmento": "2018-06-08",
+        "FechaFinSegmento": "2018-06-08",
+        "HoraIniSegmento": "1:45 AM ",
+        "HoraFinSegmento": "7:45 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "INSTRUCTOR_DIV",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5033",
+        "IDUsuario": "JGOMEZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5035",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5035",
+        "FechaIniSegmento": "2018-06-18",
+        "FechaFinSegmento": "2018-06-18",
+        "HoraIniSegmento": "08:00 AM",
+        "HoraFinSegmento": "12:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5035",
+        "FechaIniSegmento": "2018-06-18",
+        "FechaFinSegmento": "2018-06-18",
+        "HoraIniSegmento": "08:00 AM",
+        "HoraFinSegmento": "12:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5036",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "02:30 PM",
+        "HoraFinSegmento": "02:55 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5036",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5036",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "02:30 PM",
+        "HoraFinSegmento": "02:55 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5036",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5037",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "03:00 PM",
+        "HoraFinSegmento": "11:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5037",
+        "FechaIniSegmento": "2018-06-14",
+        "FechaFinSegmento": "2018-06-14",
+        "HoraIniSegmento": "03:00 PM",
+        "HoraFinSegmento": "11:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5037",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5037",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5037",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5037",
+        "IDUsuario": "CGALLINATO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5038",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5038",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5038",
+        "IDUsuario": "INSTRUCTOR_DIV",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5038",
+        "FechaIniSegmento": "2018-06-15",
+        "FechaFinSegmento": "2018-06-15",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "05:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5038",
+        "FechaIniSegmento": "2018-06-18",
+        "FechaFinSegmento": "2018-06-18",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "05:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5038",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5039",
+        "FechaIniSegmento": "2018-06-15",
+        "FechaFinSegmento": "2018-06-15",
+        "HoraIniSegmento": "03:00 PM",
+        "HoraFinSegmento": "06:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5039",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5039",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5039",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5039",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5039",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5040",
+        "FechaIniSegmento": "2018-06-19",
+        "FechaFinSegmento": "2018-06-19",
+        "HoraIniSegmento": "08:00 AM",
+        "HoraFinSegmento": "04:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5040",
+        "IDUsuario": "INSTRUCTOR_DIV",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5040",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5040",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5040",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5041",
+        "FechaIniSegmento": "2018-06-20",
+        "FechaFinSegmento": "2018-06-20",
+        "HoraIniSegmento": "08:30 AM",
+        "HoraFinSegmento": "04:30 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5041",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5042",
+        "FechaIniSegmento": "2018-06-21",
+        "FechaFinSegmento": "2018-06-21",
+        "HoraIniSegmento": "08:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5042",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "IDUsuario": "PLATEAU",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "IDUsuario": "ESTUDIANTE1",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "FechaIniSegmento": "2018-06-21",
+        "FechaFinSegmento": "2018-06-21",
+        "HoraIniSegmento": "10:00 AM",
+        "HoraFinSegmento": "02:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "FechaIniSegmento": "2018-06-20",
+        "FechaFinSegmento": "2018-06-20",
+        "HoraIniSegmento": "10:00 AM",
+        "HoraFinSegmento": "02:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "FechaIniSegmento": "2018-06-22",
+        "FechaFinSegmento": "2018-06-22",
+        "HoraIniSegmento": "10:00 AM",
+        "HoraFinSegmento": "02:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5043",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5044",
+        "FechaIniSegmento": "2018-06-27",
+        "FechaFinSegmento": "2018-06-27",
+        "HoraIniSegmento": "08:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5044",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5044",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5044",
+        "IDUsuario": "JGOMEZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5044",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5045",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5045",
+        "IDUsuario": "nmoya",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5045",
+        "IDUsuario": "JGOMEZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5045",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5045",
+        "FechaIniSegmento": "2018-06-21",
+        "FechaFinSegmento": "2018-06-21",
+        "HoraIniSegmento": "08:00 AM",
+        "HoraFinSegmento": "04:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5046",
+        "IDUsuario": "30001604",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5046",
+        "IDUsuario": "20003057",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5046",
+        "IDUsuario": "20002666",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5046",
+        "IDUsuario": "20000089",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5046",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5046",
+        "FechaIniSegmento": "2018-08-07",
+        "FechaFinSegmento": "2018-08-07",
+        "HoraIniSegmento": "9:00 AM ",
+        "HoraFinSegmento": "5:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5047",
+        "FechaIniSegmento": "2018-08-22",
+        "FechaFinSegmento": "2018-08-22",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "05:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5047",
+        "IDUsuario": "10000014",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5047",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5047",
+        "IDUsuario": "20002998",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5047",
+        "IDUsuario": "PRUEBA",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5048",
+        "FechaIniSegmento": "2018-09-20",
+        "FechaFinSegmento": "2018-09-20",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "05:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5048",
+        "IDUsuario": "20002999",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5048",
+        "IDUsuario": "20002417",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5048",
+        "IDUsuario": "20002985",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5048",
+        "IDUsuario": "30002792",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5048",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "FechaIniSegmento": "2018-08-14",
+        "FechaFinSegmento": "2018-08-14",
+        "HoraIniSegmento": "02:00 PM",
+        "HoraFinSegmento": "06:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "IDUsuario": "ERUIZ",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "IDUsuario": "CGALLINATO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "FechaIniSegmento": "2018-08-13",
+        "FechaFinSegmento": "2018-08-13",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "FechaIniSegmento": "2018-08-13",
+        "FechaFinSegmento": "2018-08-13",
+        "HoraIniSegmento": "02:00 PM",
+        "HoraFinSegmento": "06:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5049",
+        "FechaIniSegmento": "2018-08-14",
+        "FechaFinSegmento": "2018-08-14",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "01:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5052",
+        "IDUsuario": "20002831",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5052",
+        "IDUsuario": "20002617",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5052",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5052",
+        "FechaIniSegmento": "2018-08-10",
+        "FechaFinSegmento": "2018-08-10",
+        "HoraIniSegmento": "08:00 AM",
+        "HoraFinSegmento": "04:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5053",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5053",
+        "FechaIniSegmento": "2018-08-02",
+        "FechaFinSegmento": "2018-08-02",
+        "HoraIniSegmento": "1:00 AM ",
+        "HoraFinSegmento": "7:00 PM ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5054",
+        "FechaIniSegmento": "2018-08-10",
+        "FechaFinSegmento": "2018-08-11",
+        "HoraIniSegmento": "04:45 PM",
+        "HoraFinSegmento": "12:45 AM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5054",
+        "FechaIniSegmento": "2018-08-10",
+        "FechaFinSegmento": "2018-08-11",
+        "HoraIniSegmento": "04:45 PM",
+        "HoraFinSegmento": "12:45 AM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5054",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5054",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5056",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5056",
+        "FechaIniSegmento": "2018-08-15",
+        "FechaFinSegmento": "2018-08-15",
+        "HoraIniSegmento": "01:00 PM",
+        "HoraFinSegmento": "09:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5056",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5057",
+        "FechaIniSegmento": "2018-08-16",
+        "FechaFinSegmento": "2018-08-16",
+        "HoraIniSegmento": "11:00 AM",
+        "HoraFinSegmento": "07:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5057",
+        "FechaIniSegmento": "2018-08-16",
+        "FechaFinSegmento": "2018-08-16",
+        "HoraIniSegmento": "11:00 AM",
+        "HoraFinSegmento": "07:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5057",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5057",
+        "IDUsuario": "XALFARO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5058",
+        "FechaIniSegmento": "2018-12-27",
+        "FechaFinSegmento": "2018-12-27",
+        "HoraIniSegmento": "09:00 AM",
+        "HoraFinSegmento": "05:00 PM",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5058",
+        "IDUsuario": "CGALLINATO",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5058",
+        "IDUsuario": "LMSADMIN",
+        "EstadoRegistro": "ENROLL ",
+        "CantHoras": "1"
+    },
+    {
+        "IDOfertaProg": "5058",
+        "CantHoras": "1"
+    }
+]}}

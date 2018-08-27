@@ -1,17 +1,19 @@
 import groovy.xml.StreamingMarkupBuilder
 import com.sap.gateway.ip.core.customdev.util.Message;
 import java.util.HashMap;
+import groovy.xml.*
+import groovy.json.*
 
 
 def Message processData(Message message) {
     //Body 
        //def body = message.getBody();
-       def body = message.getBody(String.class);
+       //def body = message.getBody(String.class);
        //def body = message.getBody(java.io.Reader)
-       //def body = message.getBody(java.lang.String)
+       def body = message.getBody(java.lang.String)
        
 		def idOferta
-		def results = new XmlSlurper().parse(body)
+		def results = new JsonSlurper().parse(body)
 		def writer = new StringWriter()
 		def builder = new groovy.xml.MarkupBuilder(writer)
 		def helper = new groovy.xml.MarkupBuilderHelper(builder)
@@ -19,28 +21,30 @@ def Message processData(Message message) {
 
 
 
-		helper.xmlDeclaration([version:'1.0', encoding:'UTF-8', standalone:'no'])
+		helper.xmlDeclaration([version:'1.0', encoding:'UTF-8')]
 
 
 		builder.datosOfertas {
 
-		for (ofertas in results.datosOfertas) {
-		 	if ( ofertas.EstadoRegistro .text() == '' && ofertas.IDUsuario.text() == '' && ofertas.HoraIniSegmento.text() =='' && ofertas.HoraFinSegmento.text() =='' ){ //indices ID Oferta
-		 		//idOferta = ofertas.IDOfertaProg
+		for (ofertas in results.mapeoProcesoFin.datosOfertas) {
 
 
-		 			for (empleado in results.datosOfertas) {
-					 	if (empleado.EstadoRegistro.text() == 'ENROLL ' && empleado.IDOfertaProg.text() == ofertas.IDOfertaProg.text() ){ //empleados enrolados
+		 	if ( ofertas.EstadoRegistro == null && ofertas.IDUsuario == null && ofertas.HoraIniSegmento==null && ofertas.HoraFinSegmento==null ){ //indices ID Oferta
+
+		 			for (empleado in results.mapeoProcesoFin.datosOfertas) {
+
+
+					 	if ( (empleado.EstadoRegistro != null && empleado.EstadoRegistro == 'ENROLL ' ) && empleado.IDOfertaProg == ofertas.IDOfertaProg ){ //empleados enrolados
 					 		
-					 		for (segmento in results.datosOfertas) {
+					 		for (segmento in results.mapeoProcesoFin.datosOfertas) {
 							 	
-								if (  segmento.IDOfertaProg.text() == ofertas.IDOfertaProg.text() &&  ( segmento.HoraIniSegmento.text() != ''  && segmento.HoraFinSegmento.text() != '' ) ) { //segmentos de horario de la misma oferta
+								if (  segmento.IDOfertaProg == ofertas.IDOfertaProg &&  ( segmento.HoraIniSegmento != null  && segmento.HoraFinSegmento != null ) ) { //segmentos de horario de la misma oferta
 							 		builder.inscrito 
 							 		{
 							 			idOfertaProgramada(ofertas.IDOfertaProg)
 							 			IDUsuarioInscrito(empleado.IDUsuario)
 							 			FechaIniSegmento(segmento.FechaIniSegmento)
-							 			FechaFinSegmento(segmento.FechaFinSegmento)
+									 	FechaFinSegmento(segmento.FechaFinSegmento)
 							 			HoraIniSegmento(segmento.HoraIniSegmento)
 							 			HoraFinSegmento(segmento.HoraFinSegmento)
 									}
